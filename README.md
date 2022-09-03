@@ -1,6 +1,6 @@
 # Self-Driving-Car
 
-Self Driving Car with no Libraries based on Radu Mariescu-Istodor's javascript course
+Self Driving Car with no Libraries based on Radu Mariescu-Istodor's JavaScript course
 _____________________________________________________________________________________________
 
 # Content
