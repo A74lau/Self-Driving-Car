@@ -4,7 +4,6 @@ Self Driving Car with no Libraries based on Radu Mariescu-Istodor's javascript c
 _____________________________________________________________________________________________
 
 # Content
-# https://a74lau.github.io/Self-Driving-Car/
 <ul>
   <li>Contains implemented car driving mechanics, like acceleration and friction and rotates using basic trigonometry</li>
   <li>Simulated sensors for collision detection, using segment intersection and linear interpolation</li>
